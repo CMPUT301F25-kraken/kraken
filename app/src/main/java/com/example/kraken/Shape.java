@@ -5,7 +5,7 @@ public class Shape {
     private Integer Y;
 
 
-    String color = "$PUT_YOUR_CHOICE_OF_COLOR";
+    String color = "Purple";
 
-    String color_Jacob = "purple";
+
 }
