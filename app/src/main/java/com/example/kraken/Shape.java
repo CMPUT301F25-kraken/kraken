@@ -3,5 +3,5 @@ package com.example.kraken;
 public class Shape {
     private Integer X;
     private Integer Y;
-    private final String color = "magenta";
+    String color = "Blue_Amaan";
 }
