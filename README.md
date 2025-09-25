@@ -1,2 +1,2 @@
-Amaan Sayyad
-amaaniqb
+Name: Amaan Sayyad
+CCID: amaaniqb
